@@ -1,4 +1,4 @@
-# python_ex03_ex04
+# python-exercicio03
 
 ### Comandos básicos
 
